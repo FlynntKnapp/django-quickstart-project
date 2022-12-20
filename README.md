@@ -13,6 +13,6 @@
 
 ## Tutorial to create this project
 
-* [Django Quick-Start Project Tutorial](https://github.com/FlynntKnapp/django-01-quickstart-project)
+* <https://github.com/FlynntKnapp/django-01-quickstart-project>
 
 ## Resources
