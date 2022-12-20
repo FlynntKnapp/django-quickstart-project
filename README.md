@@ -1,5 +1,7 @@
 # Django Quick-Start Project
 
+## Assumptions
+
 ## Resources
 
 * Tutorial to create this project:
