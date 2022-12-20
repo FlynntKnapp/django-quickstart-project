@@ -1,4 +1,13 @@
 # Django Quick-Start Project
 
-* Basic Django project which displays Django green rocket in internet browser. Application includes pipenv.
-* Functional code example repository for [Django Quick-Start Project](https://github.com/FlynntKnapp/django-01-quickstart-project) tutorial.
+## Resources
+
+* Tutorial to create this project:
+  * [Django Quick-Start Project](https://github.com/FlynntKnapp/django-01-quickstart-project)
+
+* Basic Django project with no extra apps.
+* This project will display the Django green rocket at server root:
+  * <http://localhost:8000/>
+* Items included:
+  * `pipenv` for virtual environment.
+  * `django` for web framework.
