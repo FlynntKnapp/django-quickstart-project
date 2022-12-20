@@ -15,4 +15,4 @@
 
 * <https://github.com/FlynntKnapp/django-01-quickstart-project>
 
-## Resources
+## External Resources
